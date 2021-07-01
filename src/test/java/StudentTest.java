@@ -70,5 +70,4 @@ public class StudentTest {
         tata.addGrade(85);
         assertEquals(60, tata.getGradeAverage(), 0);
     }
-
 }
